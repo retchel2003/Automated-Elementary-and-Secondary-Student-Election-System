@@ -23,6 +23,7 @@ Week 11-12 : TESTING AND REFINEMENT
 -Refine the app based on feedback, ensuring that the interface is accessible to users of various are groups and technical abilities.
 
 Week 13-14: DEPLOYMENT AND TRAINING
+
 -Launch the app in participating schools and provide training sessions for teachers and school administrators.
 
 -Create a user manual and help desk for ongoing support.
